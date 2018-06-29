@@ -1,0 +1,96 @@
+body {
+  padding: 10px 15px;
+  font-family:"Source Code Pro","ヒラギノ角ゴ Pro W3",メイリオ,Osaka,Arial,Verdana,"ＭＳ Ｐゴシック",sans-serif;;
+  font-size: 16px;
+  line-height: 22px;
+  color: #333333;
+  background:#FFFFFF;
+}
+
+html {
+  margin-left: 5em;
+  margin-right: auto;
+}
+
+a, a:visited {
+  color: #0088cc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #005580;
+  text-decoration: underline;
+}
+
+p { margin: 0 0 0.8em;}
+small { font-size: 85%; }
+strong { font-weight: bold; }
+em { font-style: italic; }
+
+h1,h2,h3,h4,h5,h6 {
+  margin: 10px 0;
+  font-family: inherit;
+  font-weight: bold;
+  line-height: 20px;
+  color:#34495e;
+  text-rendering: optimizelegibility;
+}
+
+h1 { line-height: 40px; }
+h2,h3{line-height:25px;}
+h1 { font-size: 32px; }
+h2 { font-size: 24px; }
+h3 { font-size: 18px; margin-top:1em;}
+h4 { font-size: 18px; margin-top:1em;}
+h5 { font-size: 16px; margin-top:1em;}
+h6 { font-size: 14px; }
+
+h1 {
+  border-bottom:#34495e 5px solid;
+  color:#34495e;
+  padding:10px;
+  margin-bottom: 1ex;
+  margin-top: 3ex;
+}
+
+h2 {
+ border-left:#34495e 5px solid;
+ border-bottom:#eeeeee 2px solid;
+ padding:4px;
+ margin-top: 4ex;
+ margin-bottom: 1ex;
+}
+
+ul,ol {
+  padding: 0;
+  margin: 0px 0px 10px 25px;
+}
+
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin-bottom: 0;
+}
+
+li {
+  line-height: 20px;
+  margin-left: 3ex;
+}
+
+hr {
+  margin: 20px 0;
+  border: 0;
+  border-top: 1px solid #eeeeee;
+  border-bottom: 1px solid #ffffff;
+}
+.code{
+  font-family: source-code-pro, sans-serif;
+  background-color: #f7f7f7;
+  border: 1px solid #aaa;
+  line-height: 20px;
+  margin: 20px 0;
+  padding: 0 1em 20px;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}

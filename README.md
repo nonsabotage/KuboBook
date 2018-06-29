@@ -9,7 +9,7 @@
 > 対象の一つの近似を与えるモデルによって表現されるようなものに過ぎない
 
 
-## R Markdown
+## HTMLリンク
 
 - [第03章 GLMとは](./round8/ch3-glm/ch3-glm.html)
 - [第04章 AICとは](./round8/ch4-aic/ch4-aic.html)
@@ -17,4 +17,8 @@
 - [第06章 GLMの使いこなす](./round8/ch6-usage-glm/ch6-glm.html)
 - [第07章 GLMMを最尤推定](./round8/ch7-glmm/ch7-glmm.html)
 - [第11章 空間階層モデル](./round8/ch-11-spatial-hierachial-bayesian-model/ch-11-spatial-hierachial-bayesian-model.html)
-"# KuboBook" 
+
+
+8~10章はRスクリプトのみ.
+
+
