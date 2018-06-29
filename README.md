@@ -21,10 +21,9 @@
 - [第07章 GLMMを最尤推定](./round8/ch7-glmm/ch7-glmm.html)
 - [第11章 空間階層モデル](./round8/ch-11-spatial-hierachial-bayesian-model/ch-11-spatial-hierachial-bayesian-model.html)
 
+## おまけPDF
 
-
-
-
-
-
+<iframe src="./round8/broomパッケージを紹介@NagoyaStats#3.pdf" width="100%" height="100%"></iframe>
+<iframe src="./round8/Ch6-GLMの応用を広げる@NagoyaStats#3.pdf" width="100%" height="100%"></iframe>
+<iframe src="./round8/ch11-空間構造のある階層ベイズモデル.pdf" width="100%" height="100%"></iframe>
 
