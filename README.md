@@ -23,7 +23,7 @@
 
 ## おまけPDF
 
-<p><a src="./round8/broomパッケージを紹介@NagoyaStats#3.pdf" target="_blank">broomパッケージを紹介@NagoyaStats#3</a></p>
-<p><a src="./round8/Ch6-GLMの応用を広げる@NagoyaStats#3.pdf" target="_blank">Ch6-GLMの応用を広げる@NagoyaStats#3</a></p>
-<p><a src="./round8/ch11-空間構造のある階層ベイズモデル.pdf" target="_blank">ch11-空間構造のある階層ベイズモデル</a></p>
+<p><a href="./round8/broomパッケージを紹介@NagoyaStats#3.pdf" target="_blank">broomパッケージを紹介@NagoyaStats#3</a></p>
+<p><a href="./round8/Ch6-GLMの応用を広げる@NagoyaStats#3.pdf" target="_blank">Ch6-GLMの応用を広げる@NagoyaStats#3</a></p>
+<p><a href="./round8/ch11-空間構造のある階層ベイズモデル.pdf" target="_blank">ch11-空間構造のある階層ベイズモデル</a></p>
 
